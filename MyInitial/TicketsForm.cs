@@ -23,7 +23,7 @@ namespace Ticketing
 
         private void TicketsForm_Load(object sender, EventArgs e)
         {
-
+            //backstall = 1.0m
         }
 
         private void cmdCalculate_Click(object sender, EventArgs e)
