@@ -23,7 +23,7 @@ namespace Ticketing
 
         private void TicketsForm_Load(object sender, EventArgs e)
         {
-
+            //child below 12=  10m discount
         }
 
         private void cmdCalculate_Click(object sender, EventArgs e)
